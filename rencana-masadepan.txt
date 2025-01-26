@@ -3,6 +3,9 @@ RENCANA MASA DEPAN
   - Buat CV magang juga deh sekalian
   - Cari duidd
      ~ Magang
+
 2. interview anak website mentoring.
-3. Bikin jurnal 
+  - Bikin beberapa pertanyaan baru seputar github
+     * Apakah anda dapat menggunakan VCS seperti github ?
+
 
